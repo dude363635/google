@@ -1,10 +1,5 @@
-# Vercel Website Proxy
-
-声明：此项目仅供技术学习，不进行任何获利
-
+# Vercel Website
 ## Quick start
-
-Chinese Notice: 如果无法查看此文档中的图片,请下载次项目后在自己电脑查看此 README.md
 
 1、Fork this repository
 
@@ -60,8 +55,6 @@ The deploy process is currently underway. Please wait for it to complete.
 ![Deploy success](./asset/225816.jpg)
 
 The domain vercel for you
-
-In 2022, the Vercel domain name in mainland China may experience DNS pollution, so it is advisable to register a domain name within mainland China. Typically, beginners on major domain name platforms can obtain a domain name with one-year usage rights for 1 RMB.
 
 ![Vercel Domain](./asset/230030.jpg)
 
